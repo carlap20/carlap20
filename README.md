@@ -11,7 +11,7 @@ If you have any questions or suggestions, don't hesitate to contact me! I'm here
 </div>
 
 ## ⌨️ Languages
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlap20)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **carlap20/carlap20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
