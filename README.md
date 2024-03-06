@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to CarlaP20's GitHub repository! This repository is a space where I share a variety of projects that reflect my passion for programming and technology. From web applications to projects in programming languages like Go and JavaScript, this repository showcases my work and interests.
+
+Within this repository, you'll find projects spanning different areas and technologies. From backend to frontend, each project is designed to demonstrate my skills in software development and my ability to work with various tools and technologies.
+
+If you're looking for interesting projects to explore, contribute to, or simply draw inspiration from, you've come to the right place. Feel free to explore the projects, open issues if you have questions or suggestions, and submit pull requests if you want to contribute improvements or new features.
+
+Thank you for visiting my repository, and I hope you find something interesting and useful!
 <!--
 **carlap20/carlap20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
