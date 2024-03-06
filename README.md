@@ -13,7 +13,9 @@ If you have any questions or suggestions, don't hesitate to contact me! I'm here
 ## 💼 Technical Skills
 
 ## ⌨️ Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlap20&hide_progress=true)
+<div align="center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlap20&hide_progress=true)
+</div>
 <!--
 **carlap20/carlap20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
