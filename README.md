@@ -10,6 +10,8 @@ If you have any questions or suggestions, don't hesitate to contact me! I'm here
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
+## 💼 Technical Skills
+
 ## ⌨️ Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlap20&hide_progress=true)
 <!--
