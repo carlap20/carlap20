@@ -5,6 +5,8 @@ This repository is my creative hub, showcasing a variety of projects reflecting 
 ## 📩 Connect
 If you have any questions or suggestions, don't hesitate to contact me! I'm here to help and collaborate on whatever you need. You can send me a message through my GitHub profile or my social networks, I hope to hear from you soon!
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!--
 **carlap20/carlap20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
